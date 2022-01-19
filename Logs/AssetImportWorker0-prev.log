@@ -1,0 +1,918 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.25f1 (9b9180224418) revision 10195328'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19042) 64bit CoreSingleLanguage' Language: 'en' Physical Memory: 7598 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity 2020.3.25f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Akshara/Documents/Unity Projects/Train_v2/Train_v2
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+62425
+Successfully changed project path to: C:/Users/Akshara/Documents/Unity Projects/Train_v2/Train_v2
+C:/Users/Akshara/Documents/Unity Projects/Train_v2/Train_v2
+Using Asset Import Pipeline V2.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Refreshing native plugins compatible for Editor in 310.81 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 9.81 ms.
+Initialize engine version: 2020.3.25f1 (9b9180224418)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity 2020.3.25f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Akshara/Documents/Unity Projects/Train_v2/Train_v2/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3050 Laptop GPU (ID=0x25a2)
+    Vendor:   
+    VRAM:     3991 MB
+    Driver:   30.0.14.9729
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity 2020.3.25f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity 2020.3.25f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity 2020.3.25f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56780
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity 2020.3.25f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005922 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 212.03 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 0.13 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.450 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1450ms)
+		BeginReloadAssembly (174ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (1069ms)
+			LoadAssemblies (164ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (224ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (45ms)
+			SetupLoadedEditorAssemblies (570ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (212ms)
+				BeforeProcessingInitializeOnLoad (37ms)
+				ProcessInitializeOnLoadAttributes (217ms)
+				ProcessInitializeOnLoadMethodAttributes (94ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.022448 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.23 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 0.17 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.680 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1682ms)
+		BeginReloadAssembly (270ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (11ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (41ms)
+		EndReloadAssembly (1297ms)
+			LoadAssemblies (164ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (442ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (96ms)
+			SetupLoadedEditorAssemblies (462ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (122ms)
+				ProcessInitializeOnLoadAttributes (294ms)
+				ProcessInitializeOnLoadMethodAttributes (15ms)
+				AfterProcessingInitializeOnLoad (22ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (17ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Refreshing native plugins compatible for Editor in 1.16 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 0.14 ms.
+Unloading 1684 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 98.3 MB.
+System memory in use after: 98.4 MB.
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 2116.
+Total: 6.909200 ms (FindLiveObjects: 0.256900 ms CreateObjectMapping: 0.076900 ms MarkObjects: 6.411900 ms  DeleteObjects: 0.161300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Terrains/Terrain 4.prefab
+  artifactKey: Guid(95825788e37296d41afedaf1f2acc1b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Terrains/Terrain 4.prefab using Guid(95825788e37296d41afedaf1f2acc1b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e550b16fd40ac11606a97f1330b59395') in 0.166202 seconds 
+  Import took 0.173722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Terrains/Big Terrain 1.prefab
+  artifactKey: Guid(021cac7915726eb4c849c3c16ebe90bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Terrains/Big Terrain 1.prefab using Guid(021cac7915726eb4c849c3c16ebe90bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da47c8b21ff7b5d6c7d0b2546df1b164') in 0.024120 seconds 
+  Import took 0.029043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Terrains/Small Terrrain 3.prefab
+  artifactKey: Guid(40f6e5148a18e26439d44d5b54624465) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Terrains/Small Terrrain 3.prefab using Guid(40f6e5148a18e26439d44d5b54624465) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25b871a7bc5f8cd457173a36d5e7a9bd') in 0.020464 seconds 
+  Import took 0.025879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000402 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Terrains/Water 2.prefab
+  artifactKey: Guid(2a4625c7296ca1848bf85307ce47de11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Terrains/Water 2.prefab using Guid(2a4625c7296ca1848bf85307ce47de11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f21b2544b044425df65a2d40f1e3b96c') in 0.347413 seconds 
+  Import took 0.351909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Terrains/Terrain 5.prefab
+  artifactKey: Guid(cc5c88d03147e4649ba476b947a8c684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Terrains/Terrain 5.prefab using Guid(cc5c88d03147e4649ba476b947a8c684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18c1cb8ded42b4ae27fcf8914dd09d90') in 0.021238 seconds 
+  Import took 0.025289 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Terrains/Big Terrain 2.prefab
+  artifactKey: Guid(f4c1cfcd374469748b29ecb93e8a8761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Terrains/Big Terrain 2.prefab using Guid(f4c1cfcd374469748b29ecb93e8a8761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30619007fcac22865876b9f2d236a124') in 0.020338 seconds 
+  Import took 0.024181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Terrains/Water 1.prefab
+  artifactKey: Guid(bf0b8499f58daa74abe2fdafdde77681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Terrains/Water 1.prefab using Guid(bf0b8499f58daa74abe2fdafdde77681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9088d0bc1802d9bb0b9f3a5e35e5af7e') in 0.029435 seconds 
+  Import took 0.034260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000397 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Terrains/Big Terrain 3.prefab
+  artifactKey: Guid(4e37b4571247c824c999f8a0381993fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Terrains/Big Terrain 3.prefab using Guid(4e37b4571247c824c999f8a0381993fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c6f2606b48f7f510f00dfe4448c72c7') in 0.025848 seconds 
+  Import took 0.031315 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000442 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Terrains/Small Terrrain 1.prefab
+  artifactKey: Guid(b21d66484532de24d9a537a803ad99ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Terrains/Small Terrrain 1.prefab using Guid(b21d66484532de24d9a537a803ad99ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ccb10b5d4d87b9d286d58f09e2020ef') in 0.026929 seconds 
+  Import took 0.032337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Terrains/Small Terrrain 2.prefab
+  artifactKey: Guid(d8e2a32cedcc9ca418f8012539d9e603) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Terrains/Small Terrrain 2.prefab using Guid(d8e2a32cedcc9ca418f8012539d9e603) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7a3a7ed27896baf9e108bf3a7de1ac3') in 0.032320 seconds 
+  Import took 0.036992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Terrains/Small Terrrain 5.prefab
+  artifactKey: Guid(03cc72561cbb9e546b41049099284b6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Terrains/Small Terrrain 5.prefab using Guid(03cc72561cbb9e546b41049099284b6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2e5c4f88be5de6d5161d7062173d332') in 0.017885 seconds 
+  Import took 0.021802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Terrains/Terrain 1.prefab
+  artifactKey: Guid(3b8d04aad36504b419b3c68d9fcf7c20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Terrains/Terrain 1.prefab using Guid(3b8d04aad36504b419b3c68d9fcf7c20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3e88863aa9e70724c07c2bcdbc20929') in 0.019742 seconds 
+  Import took 0.024029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Terrains/Big Terrain 5.prefab
+  artifactKey: Guid(96e5bec91bac05948b08ef2214e0f074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Terrains/Big Terrain 5.prefab using Guid(96e5bec91bac05948b08ef2214e0f074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c2daee3579b3182cfe8db9bbf083308') in 0.019576 seconds 
+  Import took 0.024220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Terrains/Big Terrain 4.prefab
+  artifactKey: Guid(043a2d44b6187da49b1d72e5741b841b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Terrains/Big Terrain 4.prefab using Guid(043a2d44b6187da49b1d72e5741b841b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '804bf6a6326922c32dceec2a1157a495') in 0.018452 seconds 
+  Import took 0.022837 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Terrains/Small Terrrain 4.prefab
+  artifactKey: Guid(5e506b9ce8ec1274cac6a26f50ec2f32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Terrains/Small Terrrain 4.prefab using Guid(5e506b9ce8ec1274cac6a26f50ec2f32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b748ad93529bd3c96c72fb43412b3468') in 0.016733 seconds 
+  Import took 0.020453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Terrains/Terrain 3.prefab
+  artifactKey: Guid(61e47e93992af424aa861db021ff3420) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Terrains/Terrain 3.prefab using Guid(61e47e93992af424aa861db021ff3420) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29e8f964095d6893bcd03e76869885b0') in 0.016595 seconds 
+  Import took 0.020982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000454 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs
+  artifactKey: Guid(d4a22d696d01a7249981977642f3bb1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs using Guid(d4a22d696d01a7249981977642f3bb1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '017842fa8c3495c2115d679cff530b87') in 0.004767 seconds 
+  Import took 0.008143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Terrains/Terrain 2.prefab
+  artifactKey: Guid(52a72dc5dc27035429e88dd0fcf135db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Terrains/Terrain 2.prefab using Guid(52a72dc5dc27035429e88dd0fcf135db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df55c1a5d1a7c3d23f3de204796f8da2') in 0.016729 seconds 
+  Import took 0.020324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Terrains
+  artifactKey: Guid(fd427661ef22ee94bb8df7ea17974fa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Terrains using Guid(fd427661ef22ee94bb8df7ea17974fa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ade3775d05a04542de937b4236d00ee') in 0.003305 seconds 
+  Import took 0.006805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 65.070158 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation
+  artifactKey: Guid(f3b87a002ea6ee6439efcc0bd65e95ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation using Guid(f3b87a002ea6ee6439efcc0bd65e95ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bfd7510bd874ba51e748de1bc6b10fb') in 0.013372 seconds 
+  Import took 0.026264 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.053677 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Branch 1.prefab
+  artifactKey: Guid(37f9aeb2fdaf19f4a8efd7ce8a593dcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Branch 1.prefab using Guid(37f9aeb2fdaf19f4a8efd7ce8a593dcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '815b7d76f3e8972c80fb2556c1f3fb3a') in 0.044534 seconds 
+  Import took 0.054545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000695 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Branch 3.prefab
+  artifactKey: Guid(fdd3446cc2b63d44fb714ae3ca931241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Branch 3.prefab using Guid(fdd3446cc2b63d44fb714ae3ca931241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6b254891378986b9fcfb17024e3d4f4') in 0.035920 seconds 
+  Import took 0.046098 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000908 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Grass Patch 5.prefab
+  artifactKey: Guid(93e3512978bcf1743819154cc039e1a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Grass Patch 5.prefab using Guid(93e3512978bcf1743819154cc039e1a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c2cd136ac243459fed88caeb933e1ba') in 0.621533 seconds 
+  Import took 0.634130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000662 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Tree 1.prefab
+  artifactKey: Guid(06573cc19fb2e4a479092a9b4687b26c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Tree 1.prefab using Guid(06573cc19fb2e4a479092a9b4687b26c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51701e092e4dbbb0fb0a79c96f4e310f') in 0.064151 seconds 
+  Import took 0.072395 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000693 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Plant 3.prefab
+  artifactKey: Guid(64ca9e302d16490429d2a0f349d72095) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Plant 3.prefab using Guid(64ca9e302d16490429d2a0f349d72095) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0f661ec16662ac40e75d3087f2695b4') in 0.037880 seconds 
+  Import took 0.046011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000751 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Tree 3.prefab
+  artifactKey: Guid(ab1a291faed69db41860cdd7b273c28d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Tree 3.prefab using Guid(ab1a291faed69db41860cdd7b273c28d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8224a12d0e3cb13268cceff146693a8b') in 0.034111 seconds 
+  Import took 0.042199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000647 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Tree 4.prefab
+  artifactKey: Guid(2e0bdbada749e6f48b12cd3f5cadc4f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Tree 4.prefab using Guid(2e0bdbada749e6f48b12cd3f5cadc4f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e37287b90a10de23b23d12707acd3e92') in 0.032773 seconds 
+  Import took 0.041304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000697 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Tree 5.prefab
+  artifactKey: Guid(5bec60f4b2bc22b4fa1dcca2ca18225f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Tree 5.prefab using Guid(5bec60f4b2bc22b4fa1dcca2ca18225f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61a01322fc620e9287e49ad2c1785163') in 0.030433 seconds 
+  Import took 0.038350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000700 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Plant 1.prefab
+  artifactKey: Guid(15f2f61c86005324ab3630e8b1ba2747) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Plant 1.prefab using Guid(15f2f61c86005324ab3630e8b1ba2747) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cede868fca287f45ccb73fc5779a6f36') in 0.040420 seconds 
+  Import took 0.048333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000663 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Mushroom 2.prefab
+  artifactKey: Guid(18af26af61ee8234caa44dc89f89d5cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Mushroom 2.prefab using Guid(18af26af61ee8234caa44dc89f89d5cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69501cfef32c443add855c2f67802862') in 0.029996 seconds 
+  Import took 0.038624 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000720 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Flower 1.prefab
+  artifactKey: Guid(a620afd0f970b5d41a1c9398ef276fd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Flower 1.prefab using Guid(a620afd0f970b5d41a1c9398ef276fd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3af39522dec4152806b44717bfa6afd5') in 0.035766 seconds 
+  Import took 0.043582 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000636 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Mushroom 3.prefab
+  artifactKey: Guid(f9ba43b4d4d826f47aa990da47cf55a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Mushroom 3.prefab using Guid(f9ba43b4d4d826f47aa990da47cf55a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7355605d519c1fbf390a7ec7d252e52e') in 0.044097 seconds 
+  Import took 0.052529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000746 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Flower 2.prefab
+  artifactKey: Guid(eb027d38027a0474f9ac33e96dc2db19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Flower 2.prefab using Guid(eb027d38027a0474f9ac33e96dc2db19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cb1aa2840179a52881c4adbd447954a') in 0.033439 seconds 
+  Import took 0.040223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000547 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Flower 3.prefab
+  artifactKey: Guid(f550c80a288252347bddcb7465dc52df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Flower 3.prefab using Guid(f550c80a288252347bddcb7465dc52df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '303dc39fd49b669fb682873abc2420b4') in 0.038994 seconds 
+  Import took 0.046878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000443 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Log.prefab
+  artifactKey: Guid(4b21e533c871dba4bb5c56ba22947be8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Log.prefab using Guid(4b21e533c871dba4bb5c56ba22947be8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f9e36075d91061c08ea3a5e6cfe11f8') in 0.023664 seconds 
+  Import took 0.028854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Stump 3.prefab
+  artifactKey: Guid(284148a5985781342877af69bf326a2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Stump 3.prefab using Guid(284148a5985781342877af69bf326a2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54831cc32fe49527fc2483efb6412aff') in 0.024398 seconds 
+  Import took 0.030274 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000512 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Grass Patch 2.prefab
+  artifactKey: Guid(34153477ce4cf9246b4e6cda32b7153b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Grass Patch 2.prefab using Guid(34153477ce4cf9246b4e6cda32b7153b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e07d7933f1189aa7b1f3529802dcdf0') in 0.021796 seconds 
+  Import took 0.028518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001010 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Mushroom 1.prefab
+  artifactKey: Guid(c4e981a1c971f6242b943d74ed0d8a65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Mushroom 1.prefab using Guid(c4e981a1c971f6242b943d74ed0d8a65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09a85189212da7e24be0228e3c18e3b6') in 0.030346 seconds 
+  Import took 0.038663 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000663 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Grass Patch 1.prefab
+  artifactKey: Guid(d483cda7cf88d5c43a719c90483764f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Grass Patch 1.prefab using Guid(d483cda7cf88d5c43a719c90483764f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ad145293d112beac71345fe15091dfd') in 0.025264 seconds 
+  Import took 0.034996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000466 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Branch 2.prefab
+  artifactKey: Guid(006e392d17557b045b1e173abb80f1e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Branch 2.prefab using Guid(006e392d17557b045b1e173abb80f1e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c57f6e6cbe0905492b0b5eaee6ef941c') in 0.027466 seconds 
+  Import took 0.034750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000501 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Plant 2.prefab
+  artifactKey: Guid(30cd4b8a989daaa4fbb273ee70bf99f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Plant 2.prefab using Guid(30cd4b8a989daaa4fbb273ee70bf99f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '711d7fdfae0e27ff23e46e465eff79e7') in 0.046102 seconds 
+  Import took 0.053104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000557 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Grass Patch 3.prefab
+  artifactKey: Guid(94041ccdef74f7d408ff9d1382f49eae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Grass Patch 3.prefab using Guid(94041ccdef74f7d408ff9d1382f49eae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac5e299339c42b9278425a3981001b5a') in 0.031559 seconds 
+  Import took 0.036787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000414 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Grass Patch 4.prefab
+  artifactKey: Guid(32d76070fd4329949a147d840b3a3fdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Grass Patch 4.prefab using Guid(32d76070fd4329949a147d840b3a3fdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32fdde57c87918b3768716fb6cb5ddaf') in 0.023136 seconds 
+  Import took 0.030288 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000432 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Tree 2.prefab
+  artifactKey: Guid(b0b4c1c1dea91474e80b958446c76e5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Tree 2.prefab using Guid(b0b4c1c1dea91474e80b958446c76e5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cec948954a48907e184456e46fc5dbac') in 0.034262 seconds 
+  Import took 0.038890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000475 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Stump 2.prefab
+  artifactKey: Guid(89c243b5404a4554985c1d903093fa00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Stump 2.prefab using Guid(89c243b5404a4554985c1d903093fa00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29638b52134b030f2edff558f24a7467') in 0.019117 seconds 
+  Import took 0.024623 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000509 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Stump 1.prefab
+  artifactKey: Guid(0c1dc9162f86dac488068fdcb3cf9715) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Vegetation/Stump 1.prefab using Guid(0c1dc9162f86dac488068fdcb3cf9715) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78eb1c433529fc915771ca91a6f39cd9') in 0.025555 seconds 
+  Import took 0.031755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.754900 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Rocks
+  artifactKey: Guid(531060859d8a0a746acd00a01aef886f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Rocks using Guid(531060859d8a0a746acd00a01aef886f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbcab99ef5d7c8e12fd4bbbf829de977') in 0.010830 seconds 
+  Import took 0.018136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025532 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Rocks/Big Rock 1.prefab
+  artifactKey: Guid(83145382902cecc4286a4f62b720fb37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Rocks/Big Rock 1.prefab using Guid(83145382902cecc4286a4f62b720fb37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7db867d3201821a08079cc7b0261e44') in 0.031920 seconds 
+  Import took 0.038996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000557 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Rocks/Rock 1.prefab
+  artifactKey: Guid(ed18eacbf5bb4514d8a6b7a36c669520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Rocks/Rock 1.prefab using Guid(ed18eacbf5bb4514d8a6b7a36c669520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10ac5b7e8a33103d7fd2e5e5360d4979') in 0.026204 seconds 
+  Import took 0.033316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000634 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Rocks/Small Rock 1.prefab
+  artifactKey: Guid(5affa63adb5a6e44ea78a6528f5b7331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Rocks/Small Rock 1.prefab using Guid(5affa63adb5a6e44ea78a6528f5b7331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df9d31ab500cbd235827a5a5f85d2202') in 0.043678 seconds 
+  Import took 0.051430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000668 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Rocks/Rock 5.prefab
+  artifactKey: Guid(d0976a0f16cdc8e419422a94ffec72d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Rocks/Rock 5.prefab using Guid(d0976a0f16cdc8e419422a94ffec72d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16600f31fbc59593f4831cb00fd59627') in 0.031859 seconds 
+  Import took 0.040707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000648 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Rocks/Mountain.prefab
+  artifactKey: Guid(81d960fe44e3f6b46bcda7b24988e254) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Rocks/Mountain.prefab using Guid(81d960fe44e3f6b46bcda7b24988e254) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '859a56a50c14cadb7a0aa235eef95743') in 0.032468 seconds 
+  Import took 0.042165 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000618 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Rocks/Big Rock 3.prefab
+  artifactKey: Guid(232241c4030929146b8c0b57349f65a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Rocks/Big Rock 3.prefab using Guid(232241c4030929146b8c0b57349f65a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95eb1a94830b108bd249c8bf82af701d') in 0.031442 seconds 
+  Import took 0.039789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000648 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Rocks/Rock 3.prefab
+  artifactKey: Guid(ed0cb6b83666ad94ea9fbf08b3ed5d46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Rocks/Rock 3.prefab using Guid(ed0cb6b83666ad94ea9fbf08b3ed5d46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db25df118b56191638e65d23e12f3da1') in 0.032676 seconds 
+  Import took 0.040534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000660 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Rocks/Rock 2.prefab
+  artifactKey: Guid(4de9cfc6da7eef349881466ae54ea745) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Rocks/Rock 2.prefab using Guid(4de9cfc6da7eef349881466ae54ea745) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76d65c1084367e08857f24f11c29f4bb') in 0.035606 seconds 
+  Import took 0.043634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000697 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Rocks/Big Rock 2.prefab
+  artifactKey: Guid(7ece6646ef2475b44959032f5d55a8f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Rocks/Big Rock 2.prefab using Guid(7ece6646ef2475b44959032f5d55a8f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1522695f5d29f714e42cda33973236ff') in 0.034887 seconds 
+  Import took 0.042808 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000713 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Rocks/Rock 4.prefab
+  artifactKey: Guid(81a7d23c8cb63c94cbb1842341b86493) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Rocks/Rock 4.prefab using Guid(81a7d23c8cb63c94cbb1842341b86493) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08c6623051d21f124e2e2a62e93893b9') in 0.035883 seconds 
+  Import took 0.044732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000600 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Rocks/Big Rock 5.prefab
+  artifactKey: Guid(4462df8489303ba448bfd5971b82232f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Rocks/Big Rock 5.prefab using Guid(4462df8489303ba448bfd5971b82232f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bb3837c219ef8e75c79c6710bc41f61') in 0.031091 seconds 
+  Import took 0.039092 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000668 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Rocks/Small Rock 5.prefab
+  artifactKey: Guid(e282280263592284b8c7c955e3517805) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Rocks/Small Rock 5.prefab using Guid(e282280263592284b8c7c955e3517805) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f887242a95742922004773b0e7177f97') in 0.033672 seconds 
+  Import took 0.042616 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000628 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Rocks/Small Rock 3.prefab
+  artifactKey: Guid(8402ea267d711e6439b198a4526755b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Rocks/Small Rock 3.prefab using Guid(8402ea267d711e6439b198a4526755b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c79c81b604058f8760ab1b18856a321') in 0.030055 seconds 
+  Import took 0.038417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000635 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Rocks/Big Rock 4.prefab
+  artifactKey: Guid(dd1832de68cba8f48960216dac3c4f3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Rocks/Big Rock 4.prefab using Guid(dd1832de68cba8f48960216dac3c4f3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15f80dddb30ed7b489d130b640c2f9a9') in 0.033777 seconds 
+  Import took 0.041633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000746 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Rocks/Small Rock 4.prefab
+  artifactKey: Guid(03129de0bceaad4418f7f0375b4b3c38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Rocks/Small Rock 4.prefab using Guid(03129de0bceaad4418f7f0375b4b3c38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11f7e546d88126d17d6e5545d5d4a1ed') in 0.037921 seconds 
+  Import took 0.046036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000712 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Prefabs/Rocks/Small Rock 2.prefab
+  artifactKey: Guid(904c994af20bbf64493c06b741e63cb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Prefabs/Rocks/Small Rock 2.prefab using Guid(904c994af20bbf64493c06b741e63cb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee57435f87841f71458381bed8e81ef7') in 0.037562 seconds 
+  Import took 0.046741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.842058 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Scenes
+  artifactKey: Guid(31c88774902519344ba509dce367ff1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Scenes using Guid(31c88774902519344ba509dce367ff1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '051e7b7985825ccfe2d2ad57f2af4dd2') in 0.010034 seconds 
+  Import took 0.017205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.648831 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Textures
+  artifactKey: Guid(d8a04c2047ec093488d95f2498c8c592) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Textures using Guid(d8a04c2047ec093488d95f2498c8c592) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7130b08384f010d935abcada4f69125a') in 0.010576 seconds 
+  Import took 0.017724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.309811 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Materials
+  artifactKey: Guid(a21db3b1f6f12454c80b405c29cb4a06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Materials using Guid(a21db3b1f6f12454c80b405c29cb4a06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e609ac7d477174ea1ca74af0d9c4809') in 0.013407 seconds 
+  Import took 0.028109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022335 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Materials/Color Pallet.mat
+  artifactKey: Guid(b725cacc7387b1f4e991c4bdfcd832c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Materials/Color Pallet.mat using Guid(b725cacc7387b1f4e991c4bdfcd832c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc5adbbd3be511cd64a1259a45a7b421') in 0.117882 seconds 
+  Import took 0.127487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000734 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Materials/Grass.mat
+  artifactKey: Guid(4675dd6e2ff32b14b9d1e1c5375dd872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Materials/Grass.mat using Guid(4675dd6e2ff32b14b9d1e1c5375dd872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f6047aa512f2df24def0e66cbde161e') in 0.032410 seconds 
+  Import took 0.043602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000992 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Materials/Plane.mat
+  artifactKey: Guid(bf347159a764ca24981a4a8fdde2dcec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Materials/Plane.mat using Guid(bf347159a764ca24981a4a8fdde2dcec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebbc372fff53ce6bd28e25b2a8798c3b') in 0.040102 seconds 
+  Import took 0.048916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000604 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Materials/Pine Tree Branch.mat
+  artifactKey: Guid(9c0a1cda53d749f40a30a84ed1657377) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Materials/Pine Tree Branch.mat using Guid(9c0a1cda53d749f40a30a84ed1657377) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f6e840e410aaefbd393376286084c08') in 0.029365 seconds 
+  Import took 0.035888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000598 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Materials/Water.mat
+  artifactKey: Guid(94ea32e4f0f6cab4e98928aadb7d9992) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Materials/Water.mat using Guid(94ea32e4f0f6cab4e98928aadb7d9992) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a80934b7ecc4be323ccf091152c142a2') in 0.031835 seconds 
+  Import took 0.038599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000632 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Materials/Plant Leaf.mat
+  artifactKey: Guid(fc92c30a2942a8944a1b15140e3f9cc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Materials/Plant Leaf.mat using Guid(fc92c30a2942a8944a1b15140e3f9cc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c2ba7f641e03b3571e884c9e86de709') in 0.043589 seconds 
+  Import took 0.053114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.474660 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Meshes
+  artifactKey: Guid(490be5dcc52958e43ab65270561df11d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Meshes using Guid(490be5dcc52958e43ab65270561df11d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12b45de880e81e2c1760e37a5260b134') in 0.014572 seconds 
+  Import took 0.029474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030949 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Meshes/Branches.fbx
+  artifactKey: Guid(95cc45b7a6c86ed4daa4a2e32f6a0e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Meshes/Branches.fbx using Guid(95cc45b7a6c86ed4daa4a2e32f6a0e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f605daab701dcee26a001063d2950e79') in 0.187737 seconds 
+  Import took 0.195185 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Meshes/Mountain.fbx
+  artifactKey: Guid(07f7693a22c302246b83507415e1c01f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Meshes/Mountain.fbx using Guid(07f7693a22c302246b83507415e1c01f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '353a054928973476a803a7cb308f42e2') in 0.031239 seconds 
+  Import took 0.036436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000452 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Meshes/Terrains.fbx
+  artifactKey: Guid(aa44418d4a8bc2b4190b561873077180) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Meshes/Terrains.fbx using Guid(aa44418d4a8bc2b4190b561873077180) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb6bbc5f2e114c00c2ca1a9476b075a7') in 0.297573 seconds 
+  Import took 0.303526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000388 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Meshes/Mushrooms.fbx
+  artifactKey: Guid(c43f8078a174987439a67ccaab3be883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Meshes/Mushrooms.fbx using Guid(c43f8078a174987439a67ccaab3be883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fee8cbb4c15b59bca6a26383c93dd5a') in 0.086706 seconds 
+  Import took 0.094583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000511 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Meshes/Trees.fbx
+  artifactKey: Guid(35d16cd66330b3d478844c42dfc1912a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Meshes/Trees.fbx using Guid(35d16cd66330b3d478844c42dfc1912a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd6aed07518db751ab20368f3a06a266') in 0.127210 seconds 
+  Import took 0.132097 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Meshes/Stumps.fbx
+  artifactKey: Guid(480d29c512ed7c94c84fd730bfb23246) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Meshes/Stumps.fbx using Guid(480d29c512ed7c94c84fd730bfb23246) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c3dc3601e48327d7c8a568c39245898') in 0.062924 seconds 
+  Import took 0.066980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000462 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Meshes/Water.fbx
+  artifactKey: Guid(c8c97c5e6fffa9e4596aeabe219fe18f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Meshes/Water.fbx using Guid(c8c97c5e6fffa9e4596aeabe219fe18f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2906fd11d9f9f80f26989f3549dc62ee') in 0.051941 seconds 
+  Import took 0.057461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000401 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Meshes/Grass Patches.fbx
+  artifactKey: Guid(5f5482c224678d9429071f111f544d8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Meshes/Grass Patches.fbx using Guid(5f5482c224678d9429071f111f544d8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5052c7639792d9c0a1c6d78f77d865f2') in 0.091160 seconds 
+  Import took 0.097889 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Meshes/Rocks.fbx
+  artifactKey: Guid(b028c90d3d17c7849a589391cd891c6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Meshes/Rocks.fbx using Guid(b028c90d3d17c7849a589391cd891c6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b0895667630129d060b82cbc29522d3') in 0.262748 seconds 
+  Import took 0.267336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Meshes/Plants.fbx
+  artifactKey: Guid(de4845ea01e8a9f4fb204f6027315675) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Meshes/Plants.fbx using Guid(de4845ea01e8a9f4fb204f6027315675) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41126ef75da75bd8622b3d1e6d64f170') in 0.094023 seconds 
+  Import took 0.098365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Meshes/Log.fbx
+  artifactKey: Guid(2fc4f35c395a8444a8864c11b6d62042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Meshes/Log.fbx using Guid(2fc4f35c395a8444a8864c11b6d62042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30008374466bb78a57f81df9c7784e7b') in 0.028542 seconds 
+  Import took 0.032001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000681 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Meshes/Flowers.fbx
+  artifactKey: Guid(cca983b037ca1f64a8a1fb9d9eb49bbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Meshes/Flowers.fbx using Guid(cca983b037ca1f64a8a1fb9d9eb49bbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '250f76e6093cd27f5d8b3baea16b31ad') in 0.062401 seconds 
+  Import took 0.065957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.683594 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Scenes/Scene 1.unity
+  artifactKey: Guid(ccc5b6334ec377b498ce4052ba9f1134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Scenes/Scene 1.unity using Guid(ccc5b6334ec377b498ce4052ba9f1134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3029c9c7797af3cb1de6c66ad6a7a82') in 0.012388 seconds 
+  Import took 0.021641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.362299 seconds.
+  path: Assets/Low Poly Free Vegetation Kit/Scenes/Scene 2.unity
+  artifactKey: Guid(087a7ac24652c2c43b8af723beee1386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly Free Vegetation Kit/Scenes/Scene 2.unity using Guid(087a7ac24652c2c43b8af723beee1386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '720834f683d1867b47dd1660ca816ffa') in 0.009343 seconds 
+  Import took 0.017867 seconds .
+
+========================================================================
+Received Prepare
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+Registering precompiled user dll's ...
+Registered in 0.017629 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.83 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 0.38 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.145 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2146ms)
+		BeginReloadAssembly (269ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (90ms)
+		EndReloadAssembly (1739ms)
+			LoadAssemblies (266ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (592ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (111ms)
+			SetupLoadedEditorAssemblies (667ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (3ms)
+				BeforeProcessingInitializeOnLoad (155ms)
+				ProcessInitializeOnLoadAttributes (465ms)
+				ProcessInitializeOnLoadMethodAttributes (24ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.84 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 0.56 ms.
+Unloading 1610 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 94.9 MB.
+System memory in use after: 95.0 MB.
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 2161.
+Total: 9.446300 ms (FindLiveObjects: 1.278100 ms CreateObjectMapping: 0.443200 ms MarkObjects: 7.661900 ms  DeleteObjects: 0.057600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
