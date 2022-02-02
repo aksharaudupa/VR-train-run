@@ -140,6 +140,8 @@
     <Compile Include="Assets\Realistic Terrain Collection\Other\Effects\ImageEffects\Scripts\Grayscale.cs" />
     <Compile Include="Assets\Realistic Terrain Collection\Other\Effects\ImageEffects\Scripts\ColorCorrectionRamp.cs" />
     <Compile Include="Assets\Realistic Terrain Collection\Other\Effects\ImageEffects\Scripts\Triangles.cs" />
+    <Compile Include="Assets\sleepers\scripts\Random_touch.cs" />
+    <Compile Include="Assets\sleepers\scripts\ShpalaInit.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Realistic Terrain Collection\Other\Effects\ImageEffects\Shaders\Tonemapper.shader" />
@@ -179,6 +181,7 @@
     <None Include="Assets\Realistic Terrain Collection\Other\Effects\ImageEffects\Shaders\Contrast Stretch\MinMaxReduction.shader" />
     <None Include="Assets\Realistic Terrain Collection\Other\Effects\ImageEffects\Shaders\BlurEffectConeTaps.shader" />
     <None Include="Assets\Realistic Terrain Collection\Other\Effects\ImageEffects\Shaders\_DepthOfField\Bokeh34.shader" />
+    <None Include="Assets\Shipping Container Environment\Readme.txt" />
     <None Include="Assets\Realistic Terrain Collection\Other\Effects\ImageEffects\Shaders\ColorCorrectionEffect.shader" />
     <None Include="Assets\GoogleVR\Legacy\Resources\UnlitTexture.shader" />
     <None Include="Assets\Realistic Terrain Collection\Other\Effects\ImageEffects\Shaders\FisheyeShader.shader" />
